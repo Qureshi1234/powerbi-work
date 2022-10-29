@@ -1,0 +1,165 @@
+# clarification:
+
+# power bi
+
+# 1st 2nd oct: basics, installation guide, 
+# data loading activities...
+
+Nasir Qureshi:
+
+
+# 15th oct: 
+	# students who have attended 1st session already.
+		# Varsha
+		# ?
+	
+# students who are having their first session.		
+		# Anil
+		# Vaibhav
+		# Preeti	
+		# Vinoth
+
+# PowerBI Desktop: installation???? 
+		# 
+
+# module wise
+
+# real data activity: 
+		# do hands on.....
+		# part of different module: 
+			# encourage ask???
+
+		# basic interface: 
+				# 20th oct: 
+
+# Powerbi data loading activities:
+
+		# data  - Global orders data -- downloading this dataset: static 
+				# new data: new file:....
+
+	# fetching data directly from some servers or cloud locations....
+			# 
+
+		# # objective: 
+				# perform a very simplified analysis of
+					# Profit and Sales			
+							# excel: 
+									# Pivot table - aggregate table of some specific col
+									# aggregate values: mean, min, max, count, % inform
+
+
+			# automation of some process:
+					# fetching dataset from some online/cloud env:
+							# keep getting updated....
+									# new orders, sale, customer.....
+
+					# automated process to perform a very simplified data analysis on sale and profit
+			# pivot table:
+					# updated data analysis: 5 min: total profit, total sales....
+
+					# power bi: 
+								# aggregate data analysis: 
+
+
+# sequence of steps:
+		# fetching dataset:
+		step 2: changed row1 into header
+		step 3: convert date column into date type
+		step 4: error appreared.... remove error....
+
+		# counted and saved in power bi  applied speps.
+
+		
+
+# ICICIBANK Stock : 1 year information in power bi:
+		# perform all the step:
+			# 
+
+# information on a daily basis: 
+		# show last 5 days stock price movement in bars
+
+
+# went through: 
+
+	# chart creation activities:
+			# fetch data from web portal: -- data loading in powerbi
+			# fetch data from your computer -- global excel sheet
+
+	# learned 
+			# how to perform some basic data cleaning:
+				# how to make first row as header -- data transform options
+				# how to add data cleaning steps in applied step tab
+				# how to change column data types...
+			
+			# data visualization activities:
+				# how to create a basic table in power bi visual
+				# how to create a line chart with stock data
+				# how to create a bar chart with stock data
+				# how to add some basic parameters in line chart and bar chart
+				# how to create a map chart 
+				# how to change some basic map chart parameter -- bubble size...
+
+			# data filtering activities:
+				# how to perform a basic filter on date column 
+				# how to perform filtering on map chart
+
+# on a daily basis: we will be building charts like this:
+		# keep performing:
+			# data pre processing/cleaning
+			# data filtering activities
+			# data visualizations
+
+# at the end of 6th session:
+			# repeating all these activities on a daily basis:
+					
+
+# one topic at one time: 
+			# next: 5-6times:::
+					
+# i will keep increasing level of difficulties::: 
+		# during data visualization:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
