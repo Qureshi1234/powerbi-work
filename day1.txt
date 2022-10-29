@@ -1,0 +1,121 @@
+Power BI: one of the apps created under the umbrella of
+Power Project by microsoft. 
+
+Power Apps: 
+	# Powerpoint
+	# Power BI Desktop
+	# Power BI Server
+	# Power BI Mobile
+
+# Power BI Desktop: No: 
+		# Desktop based GUI: Graphical user interface: 
+			# easy to work basis: 
+					# free to use
+
+# Azure: Cloud business for Microsoft: 
+
+# Project Manager
+	# Data Engineer
+			# UI Design... c++ / c# 
+			# Cloud architech
+			# Software Engineer
+
+Project contribution: 
+		# defining and designing data pipelines: 
+				# unstructured data
+				# what/how space/storage we required....
+				# platform; unstructured , structured data....
+				# triggers: expand data storage.... 31st of every
+
+# data flowing on a consistent rate: real time basis:::: 
+	# proper data pipelines: 60% of indians firms.....
+			# data engineer....
+
+# unstructured data ..... 
+# migration of physical data into cloud environment
+
+# Croma, Reliance..... black....payment data,,,, store quantities...
+# cash ...
+
+# locally + server..... cloud env.....
+
+# Migration.... local data into cloud data...
+
+# cleaned formed.....
+
+# Senior Data Scientist: 
+	# machine learning .... pattern data.... forecast.... 
+	# clean data before feeding it to the model.... 
+
+# BI Engineer/Developer/analyst: 
+	# whatever is happening in the model pipeline.... real time basis... or not
+
+	# recommandation....
+	# ai based outcomes....
+
+# Weekly based talk.... dashboard.... 
+
+# SQL + Any BI Tools / Finance project ... tableau .... 16 billion dollar
+# Salesforce sap hana...
+
+# HCL: Shiv Nadar: 16 Billion
+
+# SQL + Any BI Tools + Computation langauge/Python or R/DAX Power/ Calculated field
+
+# Power BI....
+	# Power BI Desktop: GUI Platform: 
+			# modules of your course...
+
+
+# CSV: .csv
+
+# name,salary,date
+	# single page data/sheet data....
+
+# Excel: .xlsx
+	# software.... 
+	# multiple sheets... sheet1, sheet2, sheet3...
+
+
+
+
+
+
+
+
+
+
+	# How to integrate different outcomes/final data files into any bi tool: 
+			# Power BI: 
+				# Desktop: 
+				# Server
+
+
+
+
+
+
+
+
+
+
+	# Data Analyst
+	# AI Engineer/Deep Learning Expert
+
+	
+			# Raw data: 
+						# 85% newly created data as Unstructured data:
+								# directly save into row and column formal/tabular format
+
+
+
+
+						# 15% newly created data is structured data
+			# raw data from different servers/apps/
+
+
+
+
+
+
+
