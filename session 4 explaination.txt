@@ -1,0 +1,63 @@
+# we will be using, same dataset, for global superstore...
+# pie, donul chart, funnel chart, ribbon chart,
+# map chart with pie chart
+
+
+# pie chart is good when you have one categorical feature to be explained with numerical values
+
+# but if you have more than one categorical feature,,,,, 
+$ and you want to show numerical values with more than one categorical features....
+
+# region, segment....
+# with sales....
+
+# stacked bar chart...
+
+# funnel chart:
+	# business logic: show all the regions in green if sales is above average sales
+	# show all the regions in red, if sales is below average sales
+
+# conditional formating : business logics
+
+
+# beautify different charts....
+
+# conditional formatting in matrix chart...
+# drill down in line chart/drill through
+# waterfall chart
+# treemap 
+# gauge chart: 
+
+	# total of a column: sales
+
+	# target of that which you want to set....
+			# create a target amount: value....
+					# total sales we have.... 1.3*sales
+			# 
+
+
+
+# slicer  --- number card
+
+# animated bar chart
+# word cloud .... 
+
+# how to download more graphics from power bi...
+
+# measures and quick measures
+# data analysis expressions (DAX) POWERBI Language
+ -- overview ...
+
+# joining tables.... 
+# relationships in power bi
+
+# very strong dashboard....
+# i will be giving you one case study to create a dashboard 
+# on a given dataset scenario....
+
+
+
+
+
+
+
